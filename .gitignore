@@ -1,0 +1,12 @@
+# Foundry
+out/
+cache/
+broadcast/
+coverage/
+lcov.info
+
+# Environment
+.env
+
+# OS
+.DS_Store
