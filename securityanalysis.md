@@ -14,3 +14,4 @@ No high or medium severity issues were reported.
 - No critical or high severity vulnerabilities detected
 
 All findings were reviewed manually.
+
