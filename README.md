@@ -238,4 +238,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Support
 
-For issues, questions, or contributions, please open an issue in the GitHub repository.
+For issues, questions, or contributions, please open an issue in the GitHub repository..
