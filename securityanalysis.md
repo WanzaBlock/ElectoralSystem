@@ -13,5 +13,6 @@ No high or medium severity issues were reported.
 - 87 detectors executed
 - No critical or high severity vulnerabilities detected
 
-All findings were reviewed manually.
+All findings were reviewed manually..
+
 
